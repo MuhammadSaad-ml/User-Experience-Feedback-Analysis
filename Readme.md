@@ -74,7 +74,7 @@ data/: Contains the raw datasets.
 
 requirements.txt: List of required Python packages.
 
-pre-.ipynb: Jupyter Notebook for data cleaning and analysis.
+pre-p.ipynb: Jupyter Notebook for data cleaning and analysis.
 ```
 Author:
 ```
