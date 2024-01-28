@@ -64,7 +64,7 @@ https://www.tableau.com
 Access the interactive Tableau dashboard by downloading Tableau reader using the following link given in 5 step
 </pre>
 
-**Note for Accessing the T **:
+**Note for Accessing the Tw **:
 
 To access the interactive dashboard, use the provided Tableau Public link. Ensure you have a compatible web browser and a stable internet connection.
 
