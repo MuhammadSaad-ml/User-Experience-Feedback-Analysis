@@ -74,7 +74,7 @@ data/: Contains the raw datasets.
 
 requirements.txt: List of required Python packages.
 
-pre-processing.p: Pyth  for data cleaning and analysis.
+pre-processing.p: Pytho for data cleaning and analysis.
 ```
 Author:
 ```
