@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 This command will install all the necessary Python packages and dependencies needed for the app.
 
-**4.Click on the files containg  <a href="">Data Analysis.py</a>**
+**4.Click on the files containg  <a href="">Pre-processing.py</a>**
 <pre>
 Pre-processing.py
 
