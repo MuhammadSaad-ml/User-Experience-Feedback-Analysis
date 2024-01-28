@@ -3,7 +3,7 @@
 # User Experience Feedback Analysis
 
 ##  <a href="https://github.com/MuhammadSaad-ml/Netflix-ScreenFlow-Analytics/blob/main/Problem%20Statement.docx">OBJECTIVES</a> 
-<img src="https://i.imgur.com/JKxAaTY.png">
+<img src="https://i.imgur.com/bO60jsL.png">
  
 <pre>
 
