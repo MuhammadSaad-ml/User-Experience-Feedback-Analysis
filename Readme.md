@@ -30,7 +30,7 @@ Files
 ## Steps
 **1.Clone the repository:**
 <pre>
-[git clone https://github.com/MuhammadSaad-ml/Covid-19-Vaccine-Tracker](https://github.com/MuhammadSaad-ml/Netflix-ScreenFlow-Analytics)
+[git clone https://github.com/MuhammadSaad-ml/User-Experience-Feedback-Analysis]
 </pre>
 **2.Create a virtual environment using `venv` or `conda`**
    
