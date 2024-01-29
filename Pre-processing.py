@@ -7,7 +7,7 @@ df=pd.read_csv("complaints.csv")
 df.head(3)
 
 ## Checking shape
-df.shape
+df.shape()
 
 ## Checking overall info
 df.info()
