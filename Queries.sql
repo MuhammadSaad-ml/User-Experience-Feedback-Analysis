@@ -6,7 +6,7 @@ SELECT * FROM Compalints-fullData.csv WHERE `Complaint ID` = 2824926;
 -- Count the Number of Complaints for Each Company:
 
 SELECT Company, COUNT(`Complaint ID`) AS `Number of Complaints`
-FROM Compalints-fullData.csv;
+FROM Compalints-fullData.csv:;
 GROUP BY Company;
 
 -- Filter Complaints Based on State:
