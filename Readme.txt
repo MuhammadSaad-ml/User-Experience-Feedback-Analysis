@@ -5,6 +5,7 @@ Searborn
 Stats-model
 Plotly
 Scikit-learn
+Scipy
 
 
 
